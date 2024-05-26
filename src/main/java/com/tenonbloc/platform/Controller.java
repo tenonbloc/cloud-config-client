@@ -8,6 +8,11 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
+
+/**
+ * Sample controller to demonstrate 
+ * the ways to use the external configuration properties
+ */
 @RestController
 public class Controller {
 	
